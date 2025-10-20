@@ -114,3 +114,5 @@ Access:
 ---
 
 Would you like me to add the **POST request integration** next — i.e., how to send data from Next.js form → Django API (for creating items)?
+
+![example screnshot](image.png)
